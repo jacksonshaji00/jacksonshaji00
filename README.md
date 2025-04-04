@@ -61,7 +61,7 @@ I'm on a journey to become a skilled Embedded Developer — and you're invited t
 
 - 📧 Email: jacksonshaji826@gmail.com 
 - 🔗 LinkedIn: (https://www.linkedin.com/in/jacksonshaji03/)  
-- 💻 GitHub: (https://jacksonshaji00)
+- 💻 GitHub: (https://github.com/jacksonshaji00)
 
 ---
 
