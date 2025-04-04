@@ -85,13 +85,3 @@ I'm on a journey to become a skilled Embedded Developer — and you're invited t
 Thanks for visiting my GitHub! 😊  
 Let’s build something cool together 🚀
 
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.gif" alt="GitHub Octocat Logo" height="100">
-  <br>Loading...
-</p>
-
-<hr>
-<p align="center">Credit: <a href="https://github.com/AhmedFathyDev">Ahmed Fathy</a></p>
-<p align="center">Last edited on: 04/04/2025</p>
