@@ -18,7 +18,7 @@
 
 🎓 **Diploma in Electronics Engineering**  
 💡 **Passionate about Embedded Systems & IoT**  
-📍 Based in [Your City, Country]
+📍 Based in India
 
 ---
 
